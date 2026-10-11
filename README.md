@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Soy cris /Pfruit99</h1>
+<h1 align="center">Hola 👋 Soy /Pfruit99</h1>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"></a> </p>
