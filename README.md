@@ -5,7 +5,7 @@
 
  <p align="center">
   <em>
-    Hola, soy cristian un  desarrollador front  <b>del sena </b></a>. <br>
+    Hola, soy  un  desarrollador front  <b>del sena </b></a>. <br>
     <b>un apasionado en el autoaprendizaje</b> <br>quien esta  <b>obsecionado </b>
     con el <b>Desarrollo fullstack</b> en busca de mejorar e integrar nuevos conocimientos
   </em> 
