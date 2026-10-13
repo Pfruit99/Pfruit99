@@ -24,12 +24,11 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [<nombre>](<enlace-repo>) | <qué hace, en una línea> · [Demo](<enlace-demo>) | React, Tailwind |
-| [<nombre>](<enlace-repo>) | <qué hace, en una línea> | JavaScript, Node.js |
+| [e-commerce-basicTech](https://github.com/Pfruit99/e-commerce-basicTech) | E-commerce de accesorios y equipos de cómputo. | TypeScript, Node.js, JavaScript |
+
 
 ## 🌱 Actualmente
-- Profundizando en React y en el desarrollo de APIs con Node.js
-- Buscando una oportunidad de prácticas o un primer empleo como desarrollador
+- En desarrollo de un proyecto
 
 ## 📊 Estadísticas
 
