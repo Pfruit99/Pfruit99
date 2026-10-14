@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="<tu-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:<tu-correo>"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="<[www.linkedin.com](https://www.linkedin.com/in/cristian-morales-18ba69206)>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:<mpcristiand24@gmail.com>"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 🛠️ Tecnologías
