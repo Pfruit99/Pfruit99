@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Pfruit99 👋</h1>
 
 <p align="center">
-  Desarrollador front-end en formación (SENA) enfocado en crear interfaces web
-  claras y funcionales. Autodidacta, con interés en pasar al desarrollo full stack.
+  Desarrollador front-end enfocado en crear desde interfaces web
+  claras y funcionales hasta sitios web funcionales. Autodidacta, con interés en pasar al desarrollo full stack.
 </p>
 
 <p align="center">
